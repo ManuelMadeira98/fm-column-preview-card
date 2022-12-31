@@ -76,6 +76,7 @@
     .card-group {
         grid-template-rows: none;
         grid-template-columns: 1fr 1fr 1fr;
+        margin: 0 1.5rem;
 
         .card {
             &--button {
