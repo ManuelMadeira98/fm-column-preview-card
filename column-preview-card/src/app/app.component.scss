@@ -1,13 +1,11 @@
-.showcase {
-    padding: 1.5rem;
-    max-width: 965px;
-}
 
 .card-group {
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
     border-radius: 8px;
     overflow: hidden;
+    max-width: 972px;
+    margin: 1.5rem;
 
     .card {
         display: flex;
